@@ -24,7 +24,7 @@
     "require": {
         "php": "^8.2",
         "bondarde/php-colors": "^1.0",
-        "filament/filament": "^4.0",
+        "filament/filament": "^4|^5",
         "spatie/laravel-package-tools": "^1.15.0"
     },
     "require-dev": {
